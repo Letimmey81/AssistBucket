@@ -6,6 +6,8 @@
 - [DBM - Dungeons (All Dungeon Mods)](https://www.curseforge.com/wow/addons/deadly-boss-mods-dbm-dungeons)
 - [GTFO!](https://www.curseforge.com/wow/addons/gtfo)
 - [Kab Keystone](https://www.curseforge.com/wow/addons/kab-keystone)
+- [MythicPlusTimer](https://www.curseforge.com/wow/addons/mythicplustimer)
+- [WeakAuras](https://www.curseforge.com/wow/addons/weakauras-2)
 
 ---
 
