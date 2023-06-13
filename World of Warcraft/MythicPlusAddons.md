@@ -1,4 +1,4 @@
-# Usefull Mythic+ Addons and WeakAuras
+# Usefull Mythic+ Addons, WeakAuras and Macros
 
 ## Addons
 
@@ -17,3 +17,21 @@
 - [Incorporeal Healper](https://wago.io/AfNd0H7Im)
 - [Afflicted Helper](https://wago.io/dNQk28ECr)
 - [Mythic+ Interrupt Tracker](https://wago.io/MInterruptTracker)
+
+---
+
+## Macros
+
+Mouseover Macro e.g. Shaman's Chain Heal
+
+```lua
+#showtooltip
+/cast [@mouseover,help,nodead][] Chain Heal
+```
+
+Cursor Macro e.g. Shaman's Healing Rain:
+
+```
+#showtooltip
+/cast [@cursor] Healing Rain
+```
