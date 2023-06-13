@@ -31,7 +31,7 @@ Mouseover Macro e.g. Shaman's Chain Heal
 
 Cursor Macro e.g. Shaman's Healing Rain:
 
-```
+```lua
 #showtooltip
 /cast [@cursor] Healing Rain
 ```
